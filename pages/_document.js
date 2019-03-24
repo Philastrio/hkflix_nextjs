@@ -10,7 +10,6 @@ export default class MyDocument extends Document {
     return (
       <html>
         <Head>
-          <title>HK Movie && Store</title>
           <meta name="author" content={'Hankang'} />
           <link href="/static/styles.css" rel={'stylesheet'} />
         </Head>
